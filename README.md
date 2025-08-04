@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with a [Financial Application](https://github.com/fllin1/finance-application) project, if I could get insights from experts on the statistical side.
 
-- 👨‍💻 All of my projects are available at [https://memyselfandi.me/portfolio/Florent](https://memyselfandi.me/portfolio/Florent) (still in construction 🏗️...).
+- 👨‍💻 All of my projects are available at [https://memyselfandi.me/portfolio/Florent](https://memyselfandi.me/portfolio/Florent) (still under construction 🏗️...).
 
-- 📝 I regularly update my stats on (still in construction 🏗️...).
+- 📝 I regularly update my stats on (still under construction 🏗️...).
 
 - 💬 Ask me about **Python and AI models**, or workout and diet.
 
