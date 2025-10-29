@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [Web App](https://github.com/fllin1/mwplu_webapp) with architects, a [Matching System](https://github.com/fllin1/global-franchises) for Franchisees and a [Financial Application](https://github.com/fllin1/finance-application) project (open to collaborate).
 
-- 🌱 I’m currently learning **C, C++, Web Development (React and Vue) and Data Architecture**.
+- 🌱 I’m currently learning **C, Backend Development and Data Architecture**.
 
 - 👨‍💻 All of my projects are available at [https://memyselfandi.me/portfolio/Florent](https://memyselfandi.me/portfolio/Florent) (still under construction 🏗️...).
 
