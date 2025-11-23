@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Florent</h1>
 <h3 align="center">A fellow Data Scientist trying to learn how to code during the AI race</h3>
 
-- 🔭 I’m currently working on a [Web App](https://github.com/fllin1/mwplu_webapp) with architects, a [Matching System](https://github.com/fllin1/global-franchises) for Franchisees and a [Financial Application](https://github.com/fllin1/finance-application) project (open to collaborate).
+- 🔭 I’m currently working on a [Web App](https://github.com/fllin1/mwplu_webapp) with architects, a [Matching System](https://github.com/fllin1/global-franchises) for Franchisees (open to collaborate).
 
 - 🌱 I’m currently learning **C, Backend Development and Data Architecture** ([Boot.dev](https://boot.dev)).
 
