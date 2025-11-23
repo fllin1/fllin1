@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on a [Web App](https://github.com/fllin1/mwplu_webapp) with architects, a [Matching System](https://github.com/fllin1/global-franchises) for Franchisees and a [Financial Application](https://github.com/fllin1/finance-application) project (open to collaborate).
 
-- 🌱 I’m currently learning **C, Backend Development and Data Architecture**.
+- 🌱 I’m currently learning **C, Backend Development and Data Architecture** ([Boot.dev](https://boot.dev)).
 
-- 👨‍💻 All of my projects are available at [https://memyselfandi.me/portfolio/Florent](https://memyselfandi.me/portfolio/Florent) (still under construction 🏗️...).
-
-- 💬 Ask me about **AI models**, workout and diet.
+- 💬 Ask me about **AI**, workout and data.
 
 - 📄 Know about my experiences with my [CV](./CV_Florent_Lin_ENG.pdf).
 
