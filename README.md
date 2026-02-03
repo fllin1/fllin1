@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Florent</h1>
-<h3 align="center">A fellow Data Scientist trying to learn how to code during the AI race</h3>
+<h3 align="center">A fellow Data Scientist learning to code during the AI race</h3>
 
-- 🔭 I’m currently working on a [Web App](https://github.com/fllin1/mwplu_webapp) with architects, a [Matching System](https://github.com/fllin1/global-franchises) for Franchisees (open to collaborate).
+- 🔭 I’m working on a creating flexible and efficient AI/ML pipelines.
 
-- 🌱 I’m currently learning **C, Backend Development and Data Architecture** ([Boot.dev](https://boot.dev)).
+- 🌱 I’m currently learning **MLOps practices**.
 
-- 💬 Ask me about **AI**, workout and data.
+- 💬 Ask me about AI, workout and anime.
 
 - 📄 Know about my experiences with my [CV](./CV_Florent_Lin_ENG.pdf).
 
 - 📫 How to reach me **1florentlin@gmail.com**.
-
-- ⚡ Fun fact **Coming soon...**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
