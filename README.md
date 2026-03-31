@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Florent</h1>
-<h3 align="center">A fellow Data Scientist learning to code during the AI race</h3>
+<h3 align="center">Data & AI Engineering</h3>
 
-- 🔭 I’m working on a creating flexible and efficient AI/ML pipelines.
+- 🔭 I’m working on an personalized AI agent.
 
-- 🌱 I’m currently learning **MLOps practices**.
+- 🌱 I’m currently learning **Data Engineering**.
 
-- 💬 Ask me about AI, workout and anime.
+- 💬 Ask me about nutrition, workout and anime.
 
 - 📄 Know about my experiences with my [CV](./CV_Florent_Lin_ENG.pdf).
 
